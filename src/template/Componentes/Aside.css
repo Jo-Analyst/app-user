@@ -1,0 +1,19 @@
+.aside{
+    background-color: rgb(18, 221, 137);
+    height: 78vh;
+    padding: 20px 0;
+}
+
+.aside p:nth-last-child(2){
+    background-color: rgb(5, 158, 94);
+    padding: 10px;
+    margin: 0;
+    color: white;
+}
+
+.aside ul li{
+    background-color: rgb(8, 121, 74);
+    padding: 10px;
+    cursor: pointer;
+    color: white;
+}

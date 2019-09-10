@@ -14,3 +14,7 @@
     min-width: 100%;
     display: block;
 }
+
+.formulario select{
+    padding: 5px;
+}

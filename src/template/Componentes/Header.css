@@ -38,37 +38,3 @@
    outline: none;
    box-shadow: 0;
 }
-
-
-.search {
-   width: 50%;
-}
-
-.search input, .search input:focus {
-   background: none;
-   border: none;
-   outline: none;
-   box-shadow: none;
-   color: white;
-   display: inline-block;
-   width: 95%;
-}
-
-.search input::placeholder {
-   color: white;
-}
-
-.search {
-   border-bottom: 1px solid white;
-   display: flex;
-   flex-direction: row;
-   padding: 5px;
-   position: relative;
-}
-
-.search i {
-   cursor: pointer;
-   position: absolute;
-   top: 40%;
-   right: 10px;
-}

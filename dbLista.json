@@ -1,129 +1,134 @@
 {
-    "usuario": [
-        {
-            "id": 1,
-            "nome": "Valdirene Ap. Ferreira",
-            "nascimento": "07/11/1986",
-            "email": "Valdireneap@gmail.com",
-            "estado": "MG",
-            "senha": "1234"
-        },
-        {
-            "id": 2,
-            "nome": "Joelmir R. Carvalho",
-            "nascimento": "28/04/1990",
-            "email": "joelmirogerio@gmail.com",
-            "estado": "MG",
-            "senha": "1234"
-        },
-        {
-            "id": 3,
-            "nome": "Mº Lídia F. Carvalho",
-            "nascimento": "28/04/2021",
-            "email": "joelmirogerio@gmail.com",
-            "estado": "MG",
-            "senha": "1234"
-        }
-    ],
-    "estado": [
-        {
-            "estado": "Acre",
-            "sigla": "AC"
-        },
-        {
-            "estado": "Alagoas",
-            "sigla": "AL"
-        },
-        {
-        "estado": "Amazonas",
-            "sigla": "AM"
-        },
-        {
-            "estado": "Bahia",
-            "sigla": "BA"
-        },
-        {
-            "estado": "Ceará",
-            "sigla": "CE"
-        },
-        {
-            "estado": "Distrito Federal",
-            "sigla": "DF"
-        },
-        {
-            "estado": "Espírito Santo",
-            "sigla": "ES"
-        },
-        {
-            "estado": "Goiás",
-            "sigla": "GO"
-        },
-        {
-            "estado": "Maranhão",
-            "sigla": "MA"
-        },
-        {
-            "estado": "Mato Grosso",
-            "sigla": "MT"
-        },
-        {
-            "estado": "Mato Grosso do Sul",
-            "sigla": "MS"
-        },
-        {
-            "estado": "Minas Gerais",
-            "sigla": "MG"
-        },
-        {
-            "estado": "Pará",
-            "sigla": "PA"
-        },
-        {
-            "estado": "Paraíba",
-            "sigla": "PB"
-        },
-        {
-            "estado": "Paraná",
-            "sigla": "PR"
-        },
-        {
-            "estado": "Pernambuco",
-            "sigla": "PE"
-        },
-        {
-            "estado": "Piauí",
-            "sigla": "PI"
-        },
-        {
-            "estado": "Rio de Janeiro",
-            "sigla": "RJ"
-        },
-        {
-            "estado": "Rio grande do Norte",
-            "sigla": "RN"
-        },
-        {
-            "estado": "Rondônia",
-            "sigla": "RO"
-        },
-        {
-            "estado": "Roraima",
-            "sigla": "RR"
-        },
-        {
-            "estado": "Santa Catarina",
-            "sigla": "SC"
-        },
-        {
-            "estado": "São Paulo",
-            "sigla": "SP"
-        },
-        {
-            "estado": "Sergipe",
-            "sigla": "SE"
-        },
-        {
-            "estado": "Tocantins",
-            "sigla": "TO"
-        }]
+  "usuario": [
+    {
+      "nome": "Valdirene Ap. Ferreira",
+      "email": "valap@lastechnology.com",
+      "estado": "MG",
+      "id": 1
+    },
+    {
+      "nome": "Joelmir R. Carvalho",
+      "email": "jocarvalho@lastechnology.com",
+      "estado": "MG",
+      "id": 2
+    },
+    {
+      "nome": "Mº Lídia",
+      "email": "mlidia@lastechnology.com",
+      "estado": "MG",
+      "id": 3
+    },
+    {
+      "nome": "Beneditto Ferreira Carvalho",
+      "estado": "MG",
+      "email": "benefc@lastechnology.com",
+      "id": 4
+    }
+  ],
+  "estado": [
+    {
+      "estado": "",
+      "sigla": ""
+    },
+    {
+      "estado": "Acre",
+      "sigla": "AC"
+    },
+    {
+      "estado": "Alagoas",
+      "sigla": "AL"
+    },
+    {
+      "estado": "Amazonas",
+      "sigla": "AM"
+    },
+    {
+      "estado": "Bahia",
+      "sigla": "BA"
+    },
+    {
+      "estado": "Ceará",
+      "sigla": "CE"
+    },
+    {
+      "estado": "Distrito Federal",
+      "sigla": "DF"
+    },
+    {
+      "estado": "Espírito Santo",
+      "sigla": "ES"
+    },
+    {
+      "estado": "Goiás",
+      "sigla": "GO"
+    },
+    {
+      "estado": "Maranhão",
+      "sigla": "MA"
+    },
+    {
+      "estado": "Mato Grosso",
+      "sigla": "MT"
+    },
+    {
+      "estado": "Mato Grosso do Sul",
+      "sigla": "MS"
+    },
+    {
+      "estado": "Minas Gerais",
+      "sigla": "MG"
+    },
+    {
+      "estado": "Pará",
+      "sigla": "PA"
+    },
+    {
+      "estado": "Paraíba",
+      "sigla": "PB"
+    },
+    {
+      "estado": "Paraná",
+      "sigla": "PR"
+    },
+    {
+      "estado": "Pernambuco",
+      "sigla": "PE"
+    },
+    {
+      "estado": "Piauí",
+      "sigla": "PI"
+    },
+    {
+      "estado": "Rio de Janeiro",
+      "sigla": "RJ"
+    },
+    {
+      "estado": "Rio grande do Norte",
+      "sigla": "RN"
+    },
+    {
+      "estado": "Rondônia",
+      "sigla": "RO"
+    },
+    {
+      "estado": "Roraima",
+      "sigla": "RR"
+    },
+    {
+      "estado": "Santa Catarina",
+      "sigla": "SC"
+    },
+    {
+      "estado": "São Paulo",
+      "sigla": "SP"
+    },
+    {
+      "estado": "Sergipe",
+      "sigla": "SE"
+    },
+    {
+      "estado": "Tocantins",
+      "sigla": "TO"
+    }
+  ]
 }

@@ -13,7 +13,7 @@
       "id": 2
     },
     {
-      "nome": "Mº Lídia",
+      "nome": "Mº Lídia Ferreira Carvalho",
       "email": "mlidia@lastechnology.com",
       "estado": "MG",
       "id": 3
@@ -23,6 +23,12 @@
       "estado": "MG",
       "email": "benefc@lastechnology.com",
       "id": 4
+    },
+    {
+      "estado": "MG",
+      "nome": "Maria do Rosário A. Carvalho",
+      "email": "mrosario@lastechnology.com",
+      "id": 5
     }
   ],
   "estado": [

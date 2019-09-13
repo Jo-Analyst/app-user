@@ -11,7 +11,7 @@ const apis = {
     saveUsuario: (user) => api.post("usuario", user),
     updateUsuario: (user) => api.put("usuario/"+ user.id, user),
     deleteUsuario : (user) => api.delete("usuario/" + user.id),
-    loadNomeUsuario : (user) => api.get("usuario?nome=" + user )
+    loadNomeUsuario : (user) => api.get("usuario?q=" + user )
 }
 
 export default apis;
